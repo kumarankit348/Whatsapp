@@ -1,14 +1,14 @@
 # Whatsapp
 A application based on backend development
 
-file hirarchy
+file hirarchy:=======>>
 
 
-models---->chat.js
-node modeule
-public--->style.css
-views------->edit.ejs
+(models---->chat.js)==>>>
+{node modeule}=====>>>
+[public--->style.css]=====>
+{views------->edit.ejs
              index.ejs
-            new.ejs
-index.js
-init.js
+            new.ejs}
+(index.js)======>
+[init.js]=====>
